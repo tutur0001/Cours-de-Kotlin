@@ -73,8 +73,9 @@ Expliquons un peu plus en détail ces lignes :
 ![fun picture](https://user.oc-static.com/upload/2018/05/25/15272618306081_kotlin_function_medium.png)
 
 Comme on peut le remarquer juste au dessus, les paramètres de la fonction sont séparés par une virgule.
-Afin de retourner une valeur de type `Int`
+Afin de retourner une valeur de type `Int`, nous allons utiliser encore une fois les deux points `:` à la fin de notre function.
+#### Instructio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTg1MjE4MSwtMTI2Nzg4OTg1MywtMT
+eyJoaXN0b3J5IjpbLTI2ODEzODEzOSwtMTI2Nzg4OTg1MywtMT
 M4MTM1MTc2OV19
 -->
