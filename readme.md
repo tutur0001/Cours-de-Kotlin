@@ -79,8 +79,10 @@ En Kotlin `if` est une expression et non une instruction comme java.
 Quel est la différence entre ces deux notions ?
 Une expression est une combinaison d'un ou plusieurs valeurs, constantes, variables, opérateurs et functions d'un language de programmation va interpreter, puis calculer, pour finalement en produire une valeur différente.
 
-Pour faire plus simple, une expression est toute partie de votre code qui peut retourner une valeur. Ainsi `
+Pour faire plus simple, une expression est toute partie de votre code qui peut retourner une valeur. Ainsi `1+1`est une expression; `maxOf(5, 7)`est une expression etc.
+
+À l'inverse, une instruction est pl---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NTUzOTYzNCwtMTEwODU0MzI2MCwtMT
+eyJoaXN0b3J5IjpbLTEzNzU5NzI2OCwtMTEwODU0MzI2MCwtMT
 I2Nzg4OTg1MywtMTM4MTM1MTc2OV19
 -->
