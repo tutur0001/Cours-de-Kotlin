@@ -70,7 +70,8 @@ Expliquons un peu plus en détail ces lignes :
 
 #### Fonction un peu plus complexe:
 
-![fun picture](/image/function-comparateur.png)
+![fun picture](https://user.oc-static.com/upload/2018/05/25/15272618306081_kotlin_function_medium.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjM5MzM0MCwtMTM4MTM1MTc2OV19
+eyJoaXN0b3J5IjpbLTEyNjc4ODk4NTMsLTEzODEzNTE3NjldfQ
+==
 -->
