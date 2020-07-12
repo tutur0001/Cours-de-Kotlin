@@ -70,7 +70,7 @@ Expliquons un peu plus en détail ces lignes :
 
 #### Fonction un peu plus complexe:
 
-![fun picture](image/function-comparateur.png "function")
+![fun picture](/image/function-comparateur.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODEzNTE3NjldfQ==
+eyJoaXN0b3J5IjpbLTUwMjM5MzM0MCwtMTM4MTM1MTc2OV19
 -->
