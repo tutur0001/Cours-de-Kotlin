@@ -72,8 +72,8 @@ Expliquons un peu plus en détail ces lignes :
 
 ![fun picture](https://user.oc-static.com/upload/2018/05/25/15272618306081_kotlin_function_medium.png)
 
-Comme on peut le remarquer juste au d
+Comme on peut le remarquer juste au dessus, les parame
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzk2NjQwOTksLTEyNjc4ODk4NTMsLT
-EzODEzNTE3NjldfQ==
+eyJoaXN0b3J5IjpbMjMzOTU2ODM0LC0xMjY3ODg5ODUzLC0xMz
+gxMzUxNzY5XX0=
 -->
