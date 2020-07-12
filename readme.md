@@ -74,8 +74,9 @@ Expliquons un peu plus en détail ces lignes :
 
 Comme on peut le remarquer juste au dessus, les paramètres de la fonction sont séparés par une virgule.
 Afin de retourner une valeur de type `Int`, nous allons utiliser encore une fois les deux points `:` à la fin de notre function.
-#### Instructio
+#### Instruction ou expression ? :
+En Kotlin `if` est une expression et non une instruction comme java.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODEzODEzOSwtMTI2Nzg4OTg1MywtMT
-M4MTM1MTc2OV19
+eyJoaXN0b3J5IjpbLTExMDg1NDMyNjAsLTEyNjc4ODk4NTMsLT
+EzODEzNTE3NjldfQ==
 -->
