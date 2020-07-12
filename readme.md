@@ -81,8 +81,10 @@ Une expression est une combinaison d'un ou plusieurs valeurs, constantes, variab
 
 Pour faire plus simple, une expression est toute partie de votre code qui peut retourner une valeur. Ainsi `1+1`est une expression; `maxOf(5, 7)`est une expression etc.
 
-À l'inverse, une instruction est pl---
+À l'inverse, une instruction est la plus petit partue d'un élément indépendant de votre code qui attend qu'une action soit effectuée.
+
+Pour faire simple une instruction est un bloc de code qui ne retourne aucune valeur. Par exemple `var usernal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzU5NzI2OCwtMTEwODU0MzI2MCwtMT
+eyJoaXN0b3J5IjpbLTcwMDEyMzEwOCwtMTEwODU0MzI2MCwtMT
 I2Nzg4OTg1MywtMTM4MTM1MTc2OV19
 -->
