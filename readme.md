@@ -83,8 +83,9 @@ Pour faire plus simple, une expression est toute partie de votre code qui peut r
 
 À l'inverse, une instruction est la plus petit partue d'un élément indépendant de votre code qui attend qu'une action soit effectuée.
 
-Pour faire simple une instruction est un bloc de code qui ne retourne aucune valeur. Par exemple `var usernal
+Pour faire simple une instruction est un bloc de code qui ne retourne aucune valeur. Par exemple `var username = "Phil"` est une instruction.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMDEyMzEwOCwtMTEwODU0MzI2MCwtMT
+eyJoaXN0b3J5IjpbMjA0NTQ4MTg0NiwtMTEwODU0MzI2MCwtMT
 I2Nzg4OTg1MywtMTM4MTM1MTc2OV19
 -->
