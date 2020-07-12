@@ -71,7 +71,9 @@ Expliquons un peu plus en détail ces lignes :
 #### Fonction un peu plus complexe:
 
 ![fun picture](https://user.oc-static.com/upload/2018/05/25/15272618306081_kotlin_function_medium.png)
+
+Comme on peut le remarquer juste au d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjc4ODk4NTMsLTEzODEzNTE3NjldfQ
-==
+eyJoaXN0b3J5IjpbLTIwNzk2NjQwOTksLTEyNjc4ODk4NTMsLT
+EzODEzNTE3NjldfQ==
 -->
