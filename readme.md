@@ -77,8 +77,10 @@ Afin de retourner une valeur de type `Int`, nous allons utiliser encore une fois
 #### Instruction ou expression ? :
 En Kotlin `if` est une expression et non une instruction comme java.
 Quel est la différence entre ces deux notions ?
-Une expression est une combinaison d'un ou plusieurs valeurs, constantes, variables, opérateurs et functions d'un language de programmation va interpreter, puis calculer, po
+Une expression est une combinaison d'un ou plusieurs valeurs, constantes, variables, opérateurs et functions d'un language de programmation va interpreter, puis calculer, pour finalement en produire une valeur différente.
+
+Pour faire plus simple, une expression est toute partie de votre code qui peut retourner une valeur. Ainsi `
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODAzNDUwNywtMTEwODU0MzI2MCwtMT
+eyJoaXN0b3J5IjpbLTk3NTUzOTYzNCwtMTEwODU0MzI2MCwtMT
 I2Nzg4OTg1MywtMTM4MTM1MTc2OV19
 -->
