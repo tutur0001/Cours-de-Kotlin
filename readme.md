@@ -85,7 +85,9 @@ Pour faire plus simple, une expression est toute partie de votre code qui peut r
 
 Pour faire simple une instruction est un bloc de code qui ne retourne aucune valeur. Par exemple `var username = "Phil"` est une instruction.
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTQ4MTg0NiwtMTEwODU0MzI2MCwtMT
-I2Nzg4OTg1MywtMTM4MTM1MTc2OV19
+eyJoaXN0b3J5IjpbNjYzMzY4MDE4LDIwNDU0ODE4NDYsLTExMD
+g1NDMyNjAsLTEyNjc4ODk4NTMsLTEzODEzNTE3NjldfQ==
 -->
